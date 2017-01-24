@@ -4,7 +4,9 @@ data
 models
 *.swp
 *.p
+!internet_images.p
 lenet*
 checkpoint
 *.zip
 bin/
+testimg/
